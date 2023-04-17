@@ -1,3 +1,3 @@
-#HAI
-BYE
-#TATA
+#Hai
+This is repository file
+#bye
